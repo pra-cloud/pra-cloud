@@ -1,4 +1,4 @@
-Hi there, I'm Prateek Mishra👋
+# Hi there, I'm Prateek Mishra👋
 
 I'm a DevOps Engineer with over 1 years of experience designing, building, and maintaining highly scalable and available infrastructure for cloud-native applications. I specialize in automation, infrastructure-as-code, and continuous integration/continuous delivery (CI/CD).
 
