@@ -12,7 +12,7 @@ CI/CD: Jenkins, GitLab CI/CD, CircleCI
 Monitoring and Logging: Prometheus, Grafana, ELK Stack
 Scripting and Programming: Python, Bash
 
-## #Achievements 📈
+## Achievements 📈
 
 Designed and implemented a multi-region, highly available infrastructure for a global e-commerce platform, resulting in a 99.99% uptime SLA and increased revenue by 25%.
 Led the migration of a legacy monolithic application to a modern, microservices-based architecture .
